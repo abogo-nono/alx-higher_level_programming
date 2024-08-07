@@ -1,3 +1,4 @@
+#!/usr/bin/node
 $(document).ready(function () {
     $('DIV#add_item').click(function (e) {
         e.preventDefault();

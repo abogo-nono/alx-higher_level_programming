@@ -1,3 +1,4 @@
+#!/usr/bin/node
 $('DIV#toggle_header').click(function (e) {
     e.preventDefault();
     if ($('header').hasClass('green')) {
